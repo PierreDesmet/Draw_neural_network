@@ -4,7 +4,7 @@ Comment tracer un réseau de neurones en LaTeX ?
 
 Le notebook suivant permet la génération du code LaTeX nécessaire au tracé d'une architecture de réseau de neurones. 
 
-<img src="https://raw.githubusercontent.com/PierreDesmet/Draw_neural_network/master/NN.png" width="48">
+<img src="https://raw.githubusercontent.com/PierreDesmet/Draw_neural_network/master/NN.png" width="300">
 
 ## Paramètres : 
 - nb_features (le nombre de features, neurones à gauche du réseau)
